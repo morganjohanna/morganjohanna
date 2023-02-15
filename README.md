@@ -20,6 +20,6 @@ Fun facts about me!
 - I like through hiking, wild camping, bouldering, and scuba diving 🏞️🏕️🤿
 - I am an active Nordic larper and larpwright
 
-I'm actively looking for my next role so am very open to new opportunities either in Berlin or remotely.  
+I'm actively looking for my next role so am very open to new opportunities either in Berlin or remote.  
 Also, do I want to collaborate on your project? It definitely doesn't hurt to ask!  
-📫 Reach me at johannamorgande@gmail.com or [check out my LinkedIn for more background](https://www.linkedin.com/in/morganjohanna/)
+📫 Reach me at johannamorgande@gmail.com or [check out my LinkedIn for more background](https://www.linkedin.com/in/morganjohanna/).
