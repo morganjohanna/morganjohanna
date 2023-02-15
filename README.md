@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there, I'm Johanna (she/they) 👋
 
-<!--
-**morganjohanna/morganjohanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I used to be an academic and transitioned to the tech industry several years ago in various project management and senior specialist sales roles. I've always loved data (and sales stopped fulfilling my desire to learn new things), so I decided to pivot to a new career in data. This is what I've done in the past:
+- Descriptive statistics
+- Advanced statistics (cluster analysis, multivariate discriminant analysis)
+- Everyone's Excel/Sheets person since forever
+- Used SPSS during my studies
+- Learned SQL, Tableau, and basic Python
 
-Here are some ideas to get you started:
+This is what I'm working on now, mostly through a 12-week intensive data science course from [SPICED Academy](https://www.spiced-academy.com/en/program/data-science#):
+- Practicing and expanding Python (NumPy, Pandas)
+- Getting practical experience with SQL
+- Practicing Tableau, learning PowerBI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My course is over in mid-May 2023 and I'd like to move into a data role as soon as possible after that, most likely as a Data Analyst, Junior Data Scientist, or Business Intelligence Analyst. I'll post some of the projects and challenges I've been working on here so you can get an idea of my technical competencies.
+
+Fun facts about me!
+- I used to be an osteoarchaeologist, aka official grave robber 🤠
+- I have a border collie 🐶 who is the goodest
+- I like through hiking, wild camping, bouldering, and scuba diving 🏞️🏕️🤿
+- I am an active Nordic larper and larpwright
+
+I'm actively looking for my next role so am very open to new opportunities either in Berlin or remotely.  
+Also, do I want to collaborate on your project? It definitely doesn't hurt to ask!  
+📫 Reach me at johannamorgande@gmail.com or [check out my LinkedIn for more background](https://www.linkedin.com/in/morganjohanna/)
