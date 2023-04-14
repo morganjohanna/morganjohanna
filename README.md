@@ -12,7 +12,7 @@ This is what I'm working on now, mostly through a 12-week intensive data science
 - Getting practical experience with SQL
 - Practicing Tableau, learning PowerBI
 
-My course is over in mid-May 2023 and I'd like to move into a data role as soon as possible after that, most likely as a Data Analyst, Junior Data Scientist, or Business Intelligence Analyst. I'll post some of the projects and challenges I've been working on here so you can get an idea of my technical competencies.
+My course is over in mid-May 2023 and I'd like to move into a data role as soon as possible after that, ideally something with a strong Data Engineering component. When I have a chance (possible not until mid-May) I'll post some of the projects and challenges I've been working on here so you can get an idea of my technical competencies.
 
 Fun facts about me!
 - I used to be an osteoarchaeologist, aka official grave robber 🤠
