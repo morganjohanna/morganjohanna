@@ -1,18 +1,21 @@
-### Hi there, I'm Johanna (she/they) 👋
+### Hi there, I'm Johanna (she/her) 👋
 
-I used to be an academic and transitioned to the tech industry several years ago in various project management and senior specialist sales roles. I've always loved data (and sales stopped fulfilling my desire to learn new things), so I decided to pivot to a new career in data. This is what I've done in the past:
-- Descriptive statistics
-- Advanced statistics (cluster analysis, multivariate discriminant analysis)
+I'm pivoting to a new career in data engineering/data science to apply years of experience in the tech industry and hard skills in SQL, Python, and Docker honed over more than year of study (both self-directed and formal) and built on a decade of practical analytics work as an academic, strategy manager, senior specialist salesperson, and official "Excel person" in every team. I am a lifelong learner and see problems as puzzles I love to solve!
+
+This is a little of what I've done in the past:
+- Descriptive statistics/EDA
+- Advanced statistics (cluster analysis, multivariate discriminant analysis, ANOVA) with SPSS
 - Everyone's Excel/Sheets person since forever
-- Used SPSS during my studies
 - Learned SQL, Tableau, and basic Python
 
-This is what I'm working on now, mostly through a 12-week intensive data science course from [SPICED Academy](https://www.spiced-academy.com/en/program/data-science#):
-- Practicing and expanding Python (NumPy, Pandas)
-- Getting practical experience with SQL
-- Practicing Tableau, learning PowerBI
+In May 2023 I finished a 12-week intensive data science course from [SPICED Academy](https://www.spiced-academy.com/en/program/data-science#) focused on the following:
+- Practicing and expanding Python (with NumPy, Pandas, Scikit-Learn, Seaborn, Matplotlib)
+- Expanding statistics knowledge with neural networks, NLP, supervised and unsupervised learning algorithms and methods
+- PostgreSQL and database management
+- Container (Docker) and ETL pipeline management
+- Working with cloud instances as an admin (EC2 and RDS on AWS)
 
-My course is over in mid-May 2023 and I'd like to move into a data role as soon as possible after that, ideally something with a strong Data Engineering component. When I have a chance (possible not until mid-May) I'll post some of the projects and challenges I've been working on here so you can get an idea of my technical competencies.
+I especially enjoy engineering challenges and would like to move into a new role as soon as possible with a strong data engineering component. Here you'll see some of the projects and challenges I've been working on so you can get an idea of my technical competencies.
 
 Fun facts about me!
 - I used to be an osteoarchaeologist, aka official grave robber 🤠
