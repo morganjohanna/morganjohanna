@@ -15,7 +15,7 @@ This is a little of what I was up to before my course:
 - Descriptive statistics/EDA
 - Advanced statistics (cluster analysis, multivariate discriminant analysis, ANOVA) with SPSS
 - Everyone's Excel/Sheets person since forever
-- Dashboarding building and admin with Tableau and Salesforce
+- Dashboard building and admin with Tableau and Salesforce
 
 Fun facts about me!
 - I used to be an osteoarchaeologist, aka official grave robber 🤠
